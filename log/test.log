@@ -1,0 +1,1216 @@
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (71.9ms)
+Completed 200 OK in 330ms (Views: 328.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 23ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (19.4ms)
+Completed 200 OK in 174ms (Views: 173.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (69.0ms)
+Completed 200 OK in 183ms (Views: 182.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (62.4ms)
+Completed 200 OK in 166ms (Views: 164.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (87.4ms)
+Completed 200 OK in 213ms (Views: 210.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (60.5ms)
+Completed 200 OK in 230ms (Views: 226.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (115.7ms)
+Completed 200 OK in 303ms (Views: 301.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (31.8ms)
+Completed 200 OK in 207ms (Views: 206.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (85.2ms)
+Completed 200 OK in 181ms (Views: 180.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (92.6ms)
+Completed 200 OK in 264ms (Views: 262.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (148.3ms)
+Completed 200 OK in 221ms (Views: 219.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (64.2ms)
+Completed 200 OK in 134ms (Views: 133.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (106.0ms)
+Completed 200 OK in 208ms (Views: 205.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (81.0ms)
+Completed 200 OK in 158ms (Views: 157.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (89.6ms)
+Completed 200 OK in 164ms (Views: 162.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (127.3ms)
+Completed 200 OK in 247ms (Views: 245.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (69.9ms)
+Completed 200 OK in 173ms (Views: 172.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (118.4ms)
+Completed 200 OK in 197ms (Views: 196.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 12ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (96.5ms)
+Completed 200 OK in 193ms (Views: 191.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (91.0ms)
+Completed 200 OK in 170ms (Views: 169.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (66.6ms)
+Completed 200 OK in 134ms (Views: 132.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (88.7ms)
+Completed 200 OK in 170ms (Views: 169.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (68.4ms)
+Completed 200 OK in 187ms (Views: 185.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (65.4ms)
+Completed 200 OK in 129ms (Views: 128.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (113.7ms)
+Completed 200 OK in 185ms (Views: 183.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (60.4ms)
+Completed 200 OK in 116ms (Views: 115.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (75.5ms)
+Completed 200 OK in 131ms (Views: 130.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (66.3ms)
+Completed 200 OK in 131ms (Views: 130.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (67.6ms)
+Completed 200 OK in 133ms (Views: 132.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (69.4ms)
+Completed 200 OK in 131ms (Views: 129.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (63.6ms)
+Completed 200 OK in 123ms (Views: 122.0ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (19.4ms)
+Completed 200 OK in 134ms (Views: 133.4ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (61.2ms)
+Completed 200 OK in 116ms (Views: 115.7ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (62.9ms)
+Completed 200 OK in 121ms (Views: 119.9ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+  Processing by PagesController#contact as HTML
+Completed 200 OK in 4ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 21:55:57 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.2ms)
+Rendered users/new.html.erb within layouts/application (200.3ms)
+Rendered layouts/_stylesheets.html.erb (5.9ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (30.1ms)
+Rendered layouts/_footer.html.erb (2.2ms)
+Completed 200 OK in 442ms (Views: 439.0ms | ActiveRecord: 1.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 21:55:57 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"", "email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Rendered shared/_error_messages.html.erb (13.2ms)
+Rendered users/new.html.erb within layouts/application (30.8ms)
+Rendered layouts/_stylesheets.html.erb (3.5ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (6.2ms)
+Rendered layouts/_footer.html.erb (2.3ms)
+Completed 200 OK in 56ms (Views: 46.3ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (0.2ms)
+Rendered layouts/_stylesheets.html.erb (2.9ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (5.0ms)
+Rendered layouts/_footer.html.erb (1.6ms)
+Completed 200 OK in 85ms (Views: 83.8ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"Example User", "email"=>"user@example.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.3ms)[0m  SAVEPOINT active_record_1
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[36mSQL (45.5ms)[0m  [1mINSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["admin", nil], ["created_at", Thu, 12 Jan 2012 21:55:58 UTC +00:00], ["email", "user@example.com"], ["encrypted_password", "0e0c5b54cd5894a03aacebdcccf02d9b821d45cbad4cf18c2862db03f1132abd"], ["name", "Example User"], ["salt", "57584f8c5a2f2f1bbf81642d25f146811bfa7534344e981a1c22c691c012d0be"], ["updated_at", Thu, 12 Jan 2012 21:55:58 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 76ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (2.9ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (1.8ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (7.1ms)
+Rendered layouts/_footer.html.erb (2.5ms)
+Completed 200 OK in 29ms (Views: 19.2ms | ActiveRecord: 3.2ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (4.0ms)
+  [1m[35mUser Load (0.6ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (11.9ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 48ms (Views: 46.1ms | ActiveRecord: 0.6ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = '' LIMIT 1
+Rendered layouts/_stylesheets.html.erb (3.2ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (6.2ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 22ms (Views: 18.6ms | ActiveRecord: 0.5ms)
+  [1m[36m (2.6ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (1.3ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Thu, 12 Jan 2012 21:55:58 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "0e0c5b54cd5894a03aacebdcccf02d9b821d45cbad4cf18c2862db03f1132abd"], ["name", "Michael Hartl"], ["salt", "57584f8c5a2f2f1bbf81642d25f146811bfa7534344e981a1c22c691c012d0be"], ["updated_at", Thu, 12 Jan 2012 21:55:58 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.3ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (8.8ms)
+Rendered layouts/_footer.html.erb (15.1ms)
+Completed 200 OK in 36ms (Views: 34.5ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 11ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (1.9ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (7.4ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 19ms (Views: 17.3ms | ActiveRecord: 0.5ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+
+
+Started GET "/signout" for 127.0.0.1 at 2012-01-12 21:55:58 +0000
+  Processing by SessionsController#destroy as HTML
+Redirected to http://www.example.com/
+Completed 302 Found in 2ms
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 22:02:38 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.3ms)
+Rendered users/new.html.erb within layouts/application (157.8ms)
+Rendered layouts/_stylesheets.html.erb (4.0ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.1ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (37.5ms)
+Rendered layouts/_footer.html.erb (3.3ms)
+Completed 200 OK in 403ms (Views: 399.9ms | ActiveRecord: 1.8ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 22:02:38 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"", "email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Rendered shared/_error_messages.html.erb (8.0ms)
+Rendered users/new.html.erb within layouts/application (12.1ms)
+Rendered layouts/_stylesheets.html.erb (3.9ms)
+  [1m[36mUser Load (1.8ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (5.5ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 34ms (Views: 24.3ms | ActiveRecord: 2.2ms)
+  [1m[36m (0.8ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 22:02:38 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (0.3ms)
+Rendered layouts/_stylesheets.html.erb (2.2ms)
+  [1m[35mUser Load (0.6ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.1ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (8.2ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 28ms (Views: 26.5ms | ActiveRecord: 0.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 22:02:38 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"Example User", "email"=>"user@example.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.3ms)[0m  SAVEPOINT active_record_1
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[36mSQL (39.6ms)[0m  [1mINSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["admin", nil], ["created_at", Thu, 12 Jan 2012 22:02:38 UTC +00:00], ["email", "user@example.com"], ["encrypted_password", "b794b6e838252a3b453c56495ff691bd1609638e998c44a567efd1f94abab2d4"], ["name", "Example User"], ["salt", "be664089b0752c87847be08f3dcc7f827b3b146dfba698484cb377d7c7bab391"], ["updated_at", Thu, 12 Jan 2012 22:02:38 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 72ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 22:02:38 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.4ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (8.6ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 22ms (Views: 19.7ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-12 22:02:38 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (1.6ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.1ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (5.2ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 34ms (Views: 33.1ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-12 22:02:39 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = '' LIMIT 1
+Rendered layouts/_stylesheets.html.erb (1.9ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (5.5ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 19ms (Views: 15.1ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (3.0ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Thu, 12 Jan 2012 22:02:39 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "02f791f885646e7dfbfededb91fb356ceb6515bf5758a7c78afd751b2aa32bec"], ["name", "Michael Hartl"], ["salt", "1689c27b7705b5947c785c83c40a815bac38eac59a08a5a9822ac6a4c7336b8d"], ["updated_at", Thu, 12 Jan 2012 22:02:39 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-12 22:02:39 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.2ms)
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.1ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (5.2ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-12 22:02:39 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 5ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 22:02:39 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.3ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (9.1ms)
+Rendered layouts/_footer.html.erb (1.7ms)
+Completed 200 OK in 22ms (Views: 19.3ms | ActiveRecord: 0.6ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+
+
+Started GET "/signout" for 127.0.0.1 at 2012-01-12 22:02:39 +0000
+  Processing by SessionsController#destroy as HTML
+Redirected to http://www.example.com/
+Completed 302 Found in 2ms
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 22:05:53 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.9ms)
+Rendered users/new.html.erb within layouts/application (173.8ms)
+Rendered layouts/_stylesheets.html.erb (3.3ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (41.9ms)
+Rendered layouts/_footer.html.erb (3.9ms)
+Completed 200 OK in 431ms (Views: 427.5ms | ActiveRecord: 1.1ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"", "email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Rendered shared/_error_messages.html.erb (8.5ms)
+Rendered users/new.html.erb within layouts/application (13.3ms)
+Rendered layouts/_stylesheets.html.erb (3.2ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (13.5ms)
+Rendered layouts/_footer.html.erb (1.8ms)
+Completed 200 OK in 45ms (Views: 36.3ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (0.2ms)
+Rendered layouts/_stylesheets.html.erb (5.3ms)
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (14.1ms)
+Rendered layouts/_footer.html.erb (1.8ms)
+Completed 200 OK in 31ms (Views: 29.5ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"Example User", "email"=>"user@example.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[36mSQL (48.0ms)[0m  [1mINSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["admin", nil], ["created_at", Thu, 12 Jan 2012 22:05:54 UTC +00:00], ["email", "user@example.com"], ["encrypted_password", "787f811e94a65ef2fab4b13b48f1753317b5f2db625960e04a3b6f6f7ed53b8e"], ["name", "Example User"], ["salt", "1b6613ff4935bd7a185825be0352ca7d4265908cc33142787f5e8fafe0121248"], ["updated_at", Thu, 12 Jan 2012 22:05:54 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 96ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.4ms)
+  [1m[35mUser Load (0.5ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (6.9ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 26ms (Views: 20.4ms | ActiveRecord: 1.0ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (1.8ms)
+  [1m[35mUser Load (0.5ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (6.4ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.4ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = '' LIMIT 1
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (6.1ms)
+Rendered layouts/_footer.html.erb (20.5ms)
+Completed 200 OK in 53ms (Views: 49.1ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (1.8ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Thu, 12 Jan 2012 22:05:54 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "787f811e94a65ef2fab4b13b48f1753317b5f2db625960e04a3b6f6f7ed53b8e"], ["name", "Michael Hartl"], ["salt", "1b6613ff4935bd7a185825be0352ca7d4265908cc33142787f5e8fafe0121248"], ["updated_at", Thu, 12 Jan 2012 22:05:54 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (1.7ms)
+  [1m[35mUser Load (1.8ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.1ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (5.9ms)
+Rendered layouts/_footer.html.erb (1.5ms)
+Completed 200 OK in 24ms (Views: 21.3ms | ActiveRecord: 1.8ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 5ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 22:05:54 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.2ms)
+  [1m[35mUser Load (0.4ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (5.9ms)
+Rendered layouts/_footer.html.erb (1.6ms)
+Completed 200 OK in 19ms (Views: 16.9ms | ActiveRecord: 0.5ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+
+
+Started GET "/signout" for 127.0.0.1 at 2012-01-12 22:05:55 +0000
+  Processing by SessionsController#destroy as HTML
+Redirected to http://www.example.com/
+Completed 302 Found in 2ms
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 22:12:26 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.2ms)
+Rendered users/new.html.erb within layouts/application (183.3ms)
+Rendered layouts/_stylesheets.html.erb (3.6ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (30.2ms)
+Rendered layouts/_footer.html.erb (2.4ms)
+Completed 200 OK in 445ms (Views: 441.5ms | ActiveRecord: 1.4ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 22:12:26 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"", "email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Rendered shared/_error_messages.html.erb (8.4ms)
+Rendered users/new.html.erb within layouts/application (15.2ms)
+Rendered layouts/_stylesheets.html.erb (4.5ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (5.6ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 52ms (Views: 29.4ms | ActiveRecord: 0.7ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 22:12:26 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (0.2ms)
+Rendered layouts/_stylesheets.html.erb (1.8ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (23.8ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 41ms (Views: 39.4ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 22:12:26 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"Example User", "email"=>"user@example.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.4ms)[0m  SAVEPOINT active_record_1
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[36mSQL (63.9ms)[0m  [1mINSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["admin", nil], ["created_at", Thu, 12 Jan 2012 22:12:27 UTC +00:00], ["email", "user@example.com"], ["encrypted_password", "b26b271b19f19909092dcfdcae5a4a34012de84e2b619d96976b58e2646fde2f"], ["name", "Example User"], ["salt", "bafa37a33df0525e53d714afdbb46beb71ee14e780aae0c5923ba942bb086298"], ["updated_at", Thu, 12 Jan 2012 22:12:27 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 133ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 22:12:27 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.6ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.9ms)
+  [1m[35mUser Load (1.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (11.8ms)
+Rendered layouts/_footer.html.erb (2.1ms)
+Completed 200 OK in 30ms (Views: 25.7ms | ActiveRecord: 1.8ms)
+  [1m[36m (0.4ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-12 22:12:27 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (4.2ms)
+  [1m[35mUser Load (0.9ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (12.6ms)
+Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 54ms (Views: 51.7ms | ActiveRecord: 0.9ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-12 22:12:27 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = '' LIMIT 1
+Rendered layouts/_stylesheets.html.erb (3.7ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (8.5ms)
+Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 24ms (Views: 20.7ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (1.2ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Thu, 12 Jan 2012 22:12:27 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "b26b271b19f19909092dcfdcae5a4a34012de84e2b619d96976b58e2646fde2f"], ["name", "Michael Hartl"], ["salt", "bafa37a33df0525e53d714afdbb46beb71ee14e780aae0c5923ba942bb086298"], ["updated_at", Thu, 12 Jan 2012 22:12:27 UTC +00:00]]
+  [1m[36m (0.3ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-12 22:12:27 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.4ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.1ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (7.5ms)
+Rendered layouts/_footer.html.erb (8.3ms)
+Completed 200 OK in 30ms (Views: 28.7ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-12 22:12:27 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.5ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 7ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 22:12:27 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.3ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (7.1ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 18ms (Views: 16.5ms | ActiveRecord: 0.4ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+
+
+Started GET "/signout" for 127.0.0.1 at 2012-01-12 22:12:27 +0000
+  Processing by SessionsController#destroy as HTML
+Redirected to http://www.example.com/
+Completed 302 Found in 2ms
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 22:23:13 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.8ms)
+Rendered users/new.html.erb within layouts/application (148.1ms)
+Rendered layouts/_stylesheets.html.erb (3.2ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (27.0ms)
+Rendered layouts/_footer.html.erb (1.8ms)
+Completed 200 OK in 370ms (Views: 365.6ms | ActiveRecord: 1.8ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 22:23:13 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"", "email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Rendered shared/_error_messages.html.erb (8.1ms)
+Rendered users/new.html.erb within layouts/application (13.3ms)
+Rendered layouts/_stylesheets.html.erb (2.7ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.1ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (5.9ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 35ms (Views: 26.9ms | ActiveRecord: 0.7ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-12 22:23:13 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (0.3ms)
+Rendered layouts/_stylesheets.html.erb (1.4ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.1ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (5.8ms)
+Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 28ms (Views: 26.7ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-12 22:23:13 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"Example User", "email"=>"user@example.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[36mSQL (38.4ms)[0m  [1mINSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["admin", nil], ["created_at", Thu, 12 Jan 2012 22:23:13 UTC +00:00], ["email", "user@example.com"], ["encrypted_password", "b163db8468e43a3c6a2bca80d372fd0bb871c49b66a843cb81828049de4ec55e"], ["name", "Example User"], ["salt", "b6978142d792a7854023215d1fa6e729b3f73dc798407d41f5c19391eb57681f"], ["updated_at", Thu, 12 Jan 2012 22:23:13 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 70ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-12 22:23:14 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.6ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (1.6ms)
+  [1m[35mUser Load (0.6ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (10.7ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 26ms (Views: 21.7ms | ActiveRecord: 1.3ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-13 22:16:09 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.1ms)
+Rendered users/new.html.erb within layouts/application (171.2ms)
+Rendered layouts/_stylesheets.html.erb (4.5ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.1ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (41.8ms)
+Rendered layouts/_footer.html.erb (2.1ms)
+Completed 200 OK in 442ms (Views: 438.5ms | ActiveRecord: 1.4ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-13 22:16:10 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"", "email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.5ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+Rendered shared/_error_messages.html.erb (9.7ms)
+Rendered users/new.html.erb within layouts/application (16.2ms)
+Rendered layouts/_stylesheets.html.erb (3.9ms)
+  [1m[36mUser Load (0.9ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (8.4ms)
+Rendered layouts/_footer.html.erb (3.9ms)
+Completed 200 OK in 47ms (Views: 36.0ms | ActiveRecord: 1.7ms)
+  [1m[36m (1.0ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-13 22:16:10 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (0.2ms)
+Rendered layouts/_stylesheets.html.erb (3.1ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (4.9ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 23ms (Views: 20.5ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-13 22:16:10 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"Example User", "email"=>"user@example.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[36mSQL (53.1ms)[0m  [1mINSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["admin", nil], ["created_at", Fri, 13 Jan 2012 22:16:10 UTC +00:00], ["email", "user@example.com"], ["encrypted_password", "4fbd410a68be2b5f3d72b55ab6c7eee0871d933d720c225dc6f08821daf23881"], ["name", "Example User"], ["salt", "f76d2d07d22d6da4cafaeddaf3883be27743827b1f97b88d72199752ba90b7e6"], ["updated_at", Fri, 13 Jan 2012 22:16:10 UTC +00:00]]
+  [1m[35m (1.7ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 97ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-13 22:16:10 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.1ms)
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (6.3ms)
+Rendered layouts/_footer.html.erb (1.6ms)
+Completed 200 OK in 47ms (Views: 43.5ms | ActiveRecord: 0.5ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-13 22:16:10 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.9ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (7.3ms)
+Rendered layouts/_footer.html.erb (2.6ms)
+Completed 200 OK in 155ms (Views: 153.9ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-13 22:16:11 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = '' LIMIT 1
+Rendered layouts/_stylesheets.html.erb (8.3ms)
+  [1m[36mUser Load (1.1ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.1ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (17.0ms)
+Rendered layouts/_footer.html.erb (5.2ms)
+Completed 200 OK in 48ms (Views: 44.4ms | ActiveRecord: 1.5ms)
+  [1m[36m (0.4ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (3.6ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Fri, 13 Jan 2012 22:16:11 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "d708e17fb256feefa81162bb000680f9a37d57ce0f101e6fe8010a7380c6dd20"], ["name", "Michael Hartl"], ["salt", "31ed5257e6b401dc4041a345a5aed54172e8dbe8ec9011a1a849912936e6bace"], ["updated_at", Fri, 13 Jan 2012 22:16:11 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-13 22:16:11 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (3.2ms)
+  [1m[35mUser Load (0.7ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (6.4ms)
+Rendered layouts/_footer.html.erb (1.5ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.7ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-13 22:16:11 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.8ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 10ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-13 22:16:11 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (9.3ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 22ms (Views: 19.8ms | ActiveRecord: 0.4ms)
+  [1m[36mUser Load (2.8ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+
+
+Started GET "/signout" for 127.0.0.1 at 2012-01-13 22:16:11 +0000
+  Processing by SessionsController#destroy as HTML
+Redirected to http://www.example.com/
+Completed 302 Found in 1ms
+  [1m[36m (2.4ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-13 22:19:09 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.5ms)
+Rendered users/new.html.erb within layouts/application (173.7ms)
+Rendered layouts/_stylesheets.html.erb (4.0ms)
+  [1m[35mUser Load (3.9ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.1ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (38.4ms)
+Rendered layouts/_footer.html.erb (2.3ms)
+Completed 200 OK in 437ms (Views: 431.3ms | ActiveRecord: 4.4ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2012-01-13 22:19:10 +0000
+  Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"name"=>"Example User", "email"=>"user@example.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[36mSQL (51.7ms)[0m  [1mINSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["admin", nil], ["created_at", Fri, 13 Jan 2012 22:19:10 UTC +00:00], ["email", "user@example.com"], ["encrypted_password", "282f28c1f85df05b7442d8f1511739f60182e81e59f0ea02e69ed441a927db36"], ["name", "Example User"], ["salt", "f98634d4cc355194726ded42c28cdae8922c6eb133ab53d5aae199d05cac99db"], ["updated_at", Fri, 13 Jan 2012 22:19:10 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 160ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-13 22:19:10 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered users/show.html.erb within layouts/application (4.8ms)
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (9.3ms)
+Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 25ms (Views: 22.1ms | ActiveRecord: 0.7ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "users" [0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-13 22:19:10 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.5ms)
+  [1m[35mUser Load (0.4ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (8.5ms)
+Rendered layouts/_footer.html.erb (2.7ms)
+Completed 200 OK in 47ms (Views: 44.8ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-13 22:19:10 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.6ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = '' LIMIT 1
+Rendered layouts/_stylesheets.html.erb (3.1ms)
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (5.6ms)
+Rendered layouts/_footer.html.erb (1.2ms)
+Completed 200 OK in 32ms (Views: 21.1ms | ActiveRecord: 1.1ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (1.2ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Fri, 13 Jan 2012 22:19:10 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "282f28c1f85df05b7442d8f1511739f60182e81e59f0ea02e69ed441a927db36"], ["name", "Michael Hartl"], ["salt", "f98634d4cc355194726ded42c28cdae8922c6eb133ab53d5aae199d05cac99db"], ["updated_at", Fri, 13 Jan 2012 22:19:10 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-13 22:19:10 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.6ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (6.9ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 101ms (Views: 100.5ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-13 22:19:10 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.6ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 10ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-13 22:19:10 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.8ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (9.0ms)
+Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 28ms (Views: 23.8ms | ActiveRecord: 0.5ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+
+
+Started GET "/signout" for 127.0.0.1 at 2012-01-13 22:19:10 +0000
+  Processing by SessionsController#destroy as HTML
+Redirected to http://www.example.com/
+Completed 302 Found in 3ms
+
+
+Started GET "/contact" for 127.0.0.1 at 2012-01-13 22:24:47 +0000
+  Processing by PagesController#contact as HTML
+Rendered layouts/_stylesheets.html.erb (5.8ms)
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (30.3ms)
+Rendered layouts/_footer.html.erb (2.4ms)
+Completed 200 OK in 450ms (Views: 448.0ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+  Processing by PagesController#about as HTML
+Completed 500 Internal Server Error in 152ms
+
+
+Started GET "/help" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.3ms)
+Rendered layouts/_stylesheets.html.erb (2.6ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (5.0ms)
+Rendered layouts/_footer.html.erb (2.6ms)
+Completed 200 OK in 57ms (Views: 56.0ms | ActiveRecord: 0.8ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (124.5ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Fri, 13 Jan 2012 22:24:48 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "7cff0921d5630b20931d1c3c60723d8355951072e85fb0ce6b1bdde5bdd98dde"], ["name", "Michael Hartl"], ["salt", "43cdf8cdb0a00fa8410d04c0699cbf0b9c1b63aee22e5c6e014ef760d06d3b7e"], ["updated_at", Fri, 13 Jan 2012 22:24:48 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.8ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (7.9ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 37ms (Views: 35.5ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.5ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 9ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.7ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (7.0ms)
+Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 25ms (Views: 20.1ms | ActiveRecord: 0.7ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (1.2ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Fri, 13 Jan 2012 22:24:48 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "7cff0921d5630b20931d1c3c60723d8355951072e85fb0ce6b1bdde5bdd98dde"], ["name", "Michael Hartl"], ["salt", "43cdf8cdb0a00fa8410d04c0699cbf0b9c1b63aee22e5c6e014ef760d06d3b7e"], ["updated_at", Fri, 13 Jan 2012 22:24:48 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.6ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (4.5ms)
+Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.7ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 10ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-13 22:24:48 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.1ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (7.6ms)
+Rendered layouts/_footer.html.erb (1.6ms)
+Completed 200 OK in 19ms (Views: 17.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2012-01-13 22:32:16 +0000
+  Processing by PagesController#contact as HTML
+Rendered layouts/_stylesheets.html.erb (5.9ms)
+  [1m[36mUser Load (0.8ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (58.2ms)
+Rendered layouts/_footer.html.erb (3.8ms)
+Completed 200 OK in 530ms (Views: 525.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2012-01-13 22:32:17 +0000
+  Processing by PagesController#about as HTML
+Rendered layouts/_stylesheets.html.erb (2.9ms)
+  [1m[36mUser Load (0.6ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (7.2ms)
+Rendered layouts/_footer.html.erb (4.1ms)
+Completed 200 OK in 22ms (Views: 20.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/help" for 127.0.0.1 at 2012-01-13 22:32:17 +0000
+  Processing by PagesController#help as HTML
+Rendered layouts/_stylesheets.html.erb (2.0ms)
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (8.9ms)
+Rendered layouts/_footer.html.erb (2.1ms)
+Completed 200 OK in 20ms (Views: 19.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2012-01-13 22:32:17 +0000
+  Processing by UsersController#new as HTML
+Rendered shared/_error_messages.html.erb (1.7ms)
+Rendered layouts/_stylesheets.html.erb (3.7ms)
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Rendered layouts/_header.html.erb (105.0ms)
+Rendered layouts/_footer.html.erb (2.6ms)
+Completed 200 OK in 167ms (Views: 164.1ms | ActiveRecord: 1.1ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (86.3ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Fri, 13 Jan 2012 22:32:17 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "58a955082c190eb33074ac031d76faf40a4593a01498a6c0f193473200a4060b"], ["name", "Michael Hartl"], ["salt", "e5cc4cf56da3140baae243d058f95a788d52c8b5eb440f88da0ece2dc0a6f834"], ["updated_at", Fri, 13 Jan 2012 22:32:17 UTC +00:00]]
+  [1m[36m (0.3ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-13 22:32:17 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (4.5ms)
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (8.1ms)
+Rendered layouts/_footer.html.erb (73.3ms)
+Completed 200 OK in 124ms (Views: 123.2ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-13 22:32:18 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 10ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-13 22:32:18 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (2.2ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (8.9ms)
+Rendered layouts/_footer.html.erb (1.6ms)
+Completed 200 OK in 25ms (Views: 20.8ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+Binary data inserted for `string` type on column `salt`
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "users" ("admin", "created_at", "email", "encrypted_password", "name", "salt", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["admin", nil], ["created_at", Fri, 13 Jan 2012 22:32:18 UTC +00:00], ["email", "mhartl@example.com"], ["encrypted_password", "f74d82c3f516d7129592406cd49b7ccedfb7efe1bbed09cd92d32eca3de0e88b"], ["name", "Michael Hartl"], ["salt", "d0d0f3bf178415a6e3bbf5c7d03dac11cc4d46a57290483f3e5a396232c58f35"], ["updated_at", Fri, 13 Jan 2012 22:32:18 UTC +00:00]]
+  [1m[36m (0.5ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+
+
+Started GET "/signin" for 127.0.0.1 at 2012-01-13 22:32:18 +0000
+  Processing by SessionsController#new as HTML
+Rendered layouts/_stylesheets.html.erb (2.2ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  [1m[36mCACHE (0.4ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Rendered layouts/_header.html.erb (10.7ms)
+Rendered layouts/_footer.html.erb (4.7ms)
+Completed 200 OK in 25ms (Views: 23.9ms | ActiveRecord: 0.7ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2012-01-13 22:32:18 +0000
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "session"=>{"email"=>"mhartl@example.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[35mUser Load (0.4ms)[0m  SELECT "users".* FROM "users" WHERE "users"."email" = 'mhartl@example.com' LIMIT 1
+Redirected to http://www.example.com/users/1
+Completed 302 Found in 6ms
+
+
+Started GET "/users/1" for 127.0.0.1 at 2012-01-13 22:32:18 +0000
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+Rendered layouts/_stylesheets.html.erb (3.3ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Rendered layouts/_header.html.erb (7.0ms)
+Rendered layouts/_footer.html.erb (8.9ms)
+Completed 200 OK in 29ms (Views: 27.1ms | ActiveRecord: 0.4ms)
